@@ -5,7 +5,7 @@ print(df_read)
 # use to write the file in csv format here we have to mention name
 # df_read.to_csv("newstud123.csv")
 # --------------------------------------------------------------------
-# data = pd.read_csv(r"D:\Python Final Practice all imp work\pycharmcode\newstud123.csv")
+# data1 = pd.read_csv(r"D:\Python Final Practice all imp work\pycharmcode\newstud123.csv")
 # print(data)
 # --------------------------------------------------------------------
 print(df_read.loc[[1,3]])
